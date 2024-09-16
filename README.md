@@ -1,0 +1,2 @@
+# ES6DestructuringCompletedSolution
+Created with CodeSandbox
